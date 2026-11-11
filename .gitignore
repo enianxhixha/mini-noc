@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# PyCharm
+.idea/
+
+# Node.js
+node_modules/
+dist/
+
+# Local database
+*.db
+
+# Backups
+backups/
+
+# Environment and logs
+.env
+*.log
